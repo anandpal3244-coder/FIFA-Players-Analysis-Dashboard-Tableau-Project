@@ -2,7 +2,8 @@
 
 ## 📸 Dashboard Snapshot
 
-<img width="1712" height="1026" alt="Screenshot 2026-05-11 112505" src="https://github.com/user-attachments/assets/8daf4b82-f619-4728-b42d-171576ba1534" />
+<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/92372cad-e5fa-481e-b191-5d3a62b849c0" />
+
 
 ---
 
@@ -47,7 +48,7 @@ Football clubs need answers to:
 ## 🚀 Live Dashboard
 
 👉 **View Interactive Dashboard:**
-(https://public.tableau.com/app/profile/anand.kumar1736/viz/shared/SB2MPHNW7)
+https://public.tableau.com/shared/X7RQYW3M9?:display_count=n&:origin=viz_share_link
 
 ---
 
