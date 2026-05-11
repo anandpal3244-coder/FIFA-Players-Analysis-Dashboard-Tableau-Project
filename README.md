@@ -1,42 +1,39 @@
-# ⚽ FIFA Players Analysis Dashboard | Tableau Project
+# ⚽ FIFA Analysis Dashboard | Tableau Project
 
-## 📸 Dashboard Snapshot
-
-<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/92372cad-e5fa-481e-b191-5d3a62b849c0" />
-
+<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/f1171066-a7b8-466a-a8f4-b8ea4f063388" />
 
 ---
 
 ## 📌 Project Overview
 
-This project analyzes **FIFA player dataset** to explore player performance, market value, age distribution, and positional strengths using an interactive Tableau dashboard.
+This project presents an interactive **FIFA Players Analysis Dashboard** built using Tableau to explore player performance, ratings, age distribution, and market value trends.
 
-The dashboard helps clubs, analysts, and scouts make data-driven decisions about player selection and team strategy.
+The dashboard transforms raw football data into meaningful insights to support scouting, recruitment, and performance analysis.
 
 ---
 
-## 🎯 Business Objective
+## 🎯 Project Objective
 
-Football clubs need answers to:
+Football clubs and analysts need to understand:
 
-* Which players deliver highest performance value?
-* How age impacts player rating?
-* Which positions dominate overall ratings?
-* How salary relates to performance?
+* Which players perform at elite levels?
+* How age impacts overall rating?
+* Which positions dominate performance metrics?
+* Relationship between player value and ratings.
 
 ---
 
 ## 📊 Dashboard Features
 
+✔ Interactive Filters
 ✔ Player Rating Analysis
-✔ Age Distribution Insights
-✔ Position-wise Performance
+✔ Age Distribution Visualization
+✔ Position-wise Performance Analysis
 ✔ Market Value Comparison
-✔ Interactive Filters & Drilldowns
 
 ---
 
-## 🛠 Tools Used
+## 🛠 Tools & Technologies
 
 * Tableau
 * Data Visualization
@@ -45,57 +42,59 @@ Football clubs need answers to:
 
 ---
 
-## 🚀 Live Dashboard
+## 🚀 Live Interactive Dashboard
 
-👉 **View Interactive Dashboard:**
-https://public.tableau.com/shared/X7RQYW3M9?:display_count=n&:origin=viz_share_link
+👉 View Dashboard Here:
+https://public.tableau.com/shared/GWSBYT2CS?:display_count=n&:origin=viz_share_link
+
+---
+
+## 📸 Dashboard Snapshot
+
+<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/87c0cda5-68d7-453e-8cc4-f9161c58c529" />
+
 
 ---
 
 ## 🔍 Key Insights
 
-* ⭐ Peak player performance occurs between ages 24–29.
-* 💰 Market value strongly correlates with overall rating.
-* ⚽ Midfielders dominate player distribution.
-* 📈 Elite players show high wage concentration.
+* ⭐ Players aged **24–29** show peak performance.
+* 💰 Higher ratings strongly influence market value.
+* ⚽ Midfielders represent the largest player group.
+* 📈 Elite players concentrate in top wage ranges.
 
 ---
 
 ## 💡 Business Recommendations
 
-* Invest in players within peak performance age range.
-* Use rating-to-value comparison for smart transfers.
-* Balance squad using position analytics.
-* Monitor wage efficiency vs performance.
+* Focus recruitment on peak performance age groups.
+* Use rating-to-value comparison for smarter transfers.
+* Maintain balanced squad composition across positions.
 
 ---
 
 ## 📁 Repository Structure
 
-```id="xv7e21"
-FIFA-Players-Analysis
+FIFA-Analysis-Dashboard
 │
 ├── FIFA Analysis Dashboard.twbx
 ├── dataset.csv
 ├── dashboard.png
 └── README.md
-```
 
 ---
 
 ## 👨‍💻 Author
 
-**Aspiring Data Analyst**
+Aspiring Data Analyst
 
 Skills Demonstrated:
 
-* Tableau Dashboarding
+* Tableau Dashboard Development
 * Data Storytelling
 * Business Analytics
-* Interactive Visualization
+* Visualization Design
 
 ---
 
-## ⭐ Support
-
-If you found this project useful, give it a ⭐!
+⭐ If you like this project, consider giving it a star!
