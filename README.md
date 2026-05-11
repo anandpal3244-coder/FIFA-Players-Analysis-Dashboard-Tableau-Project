@@ -75,7 +75,7 @@ https://public.tableau.com/shared/X7RQYW3M9?:display_count=n&:origin=viz_share_l
 ```id="xv7e21"
 FIFA-Players-Analysis
 │
-├── Fifa Project.twbx
+├── FIFA Analysis Dashboard.twbx
 ├── dataset.csv
 ├── dashboard.png
 └── README.md
