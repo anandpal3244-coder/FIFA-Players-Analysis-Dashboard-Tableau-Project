@@ -1,81 +1,74 @@
-# ⚽ FIFA Analysis Dashboard | Tableau Project
+# ⚽ FIFA World Cup Analysis Dashboard | Tableau Project
 
-<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/f1171066-a7b8-466a-a8f4-b8ea4f063388" />
+<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/923d7b9f-1e45-476f-807c-ec100ba3ed9f" />
+
 
 ---
 
 ## 📌 Project Overview
 
-This project presents an interactive **FIFA Players Analysis Dashboard** built using Tableau to explore player performance, ratings, age distribution, and market value trends.
+This project presents an interactive **FIFA World Cup Analysis Dashboard** created using Tableau.
 
-The dashboard transforms raw football data into meaningful insights to support scouting, recruitment, and performance analysis.
+The dashboard explores historical World Cup match data to analyze tournament trends, team goal performance, match outcomes, and country-level performance insights.
 
 ---
 
 ## 🎯 Project Objective
 
-Football clubs and analysts need to understand:
+The goal of this project is to transform FIFA World Cup match data into visual insights that help answer:
 
-* Which players perform at elite levels?
-* How age impacts overall rating?
-* Which positions dominate performance metrics?
-* Relationship between player value and ratings.
+* How has the tournament evolved over the years?
+* Which teams scored the most goals?
+* What are the common match outcomes?
+* Which countries performed consistently well?
 
 ---
 
 ## 📊 Dashboard Features
 
-✔ Interactive Filters
-✔ Player Rating Analysis
-✔ Age Distribution Visualization
-✔ Position-wise Performance Analysis
-✔ Market Value Comparison
+✔ Year-wise Tournament Analysis
+✔ Team Goals Comparison
+✔ Match Result Distribution
+✔ Country Performance Analysis
+✔ Interactive Filters & Visual Exploration
 
 ---
 
-## 🛠 Tools & Technologies
+## 🛠 Tools Used
 
 * Tableau
 * Data Visualization
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
+* Data Analysis
+* Dashboard Design
 
 ---
 
 ## 🚀 Live Interactive Dashboard
 
 👉 View Dashboard Here:
-https://public.tableau.com/shared/GWSBYT2CS?:display_count=n&:origin=viz_share_link
+https://public.tableau.com/shared/F8SBMXNY6?:display_count=n&:origin=viz_share_link
 
 ---
 
 ## 📸 Dashboard Snapshot
 
-<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/87c0cda5-68d7-453e-8cc4-f9161c58c529" />
+<img width="1866" height="1042" alt="Screenshot 2026-05-11 181425" src="https://github.com/user-attachments/assets/923d7b9f-1e45-476f-807c-ec100ba3ed9f" />
 
 
 ---
 
 ## 🔍 Key Insights
 
-* ⭐ Players aged **24–29** show peak performance.
-* 💰 Higher ratings strongly influence market value.
-* ⚽ Midfielders represent the largest player group.
-* 📈 Elite players concentrate in top wage ranges.
-
----
-
-## 💡 Business Recommendations
-
-* Focus recruitment on peak performance age groups.
-* Use rating-to-value comparison for smarter transfers.
-* Maintain balanced squad composition across positions.
+* ⚽ Goal scoring patterns vary significantly across tournament years.
+* 🌍 Certain countries consistently dominate World Cup performance.
+* 📊 Match results reveal competitive trends across eras.
+* 📈 Team goal analysis highlights attacking strengths.
 
 ---
 
 ## 📁 Repository Structure
 
-FIFA-Analysis-Dashboard
+FIFA-WorldCup-Analysis
 │
 ├── FIFA Analysis Dashboard.twbx
 ├── dataset.csv
@@ -92,9 +85,9 @@ Skills Demonstrated:
 
 * Tableau Dashboard Development
 * Data Storytelling
-* Business Analytics
-* Visualization Design
+* Sports Data Analysis
+* Interactive Visualization
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+⭐ If you like this project, give it a star!
